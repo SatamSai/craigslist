@@ -1,1 +1,1 @@
-webi: gunicorn craigslist.wsgi
+webi: gunicorn Craigslist-clone.wsgi
