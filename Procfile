@@ -1,1 +1,1 @@
-
+web: gunicorn craigslist.wsgi

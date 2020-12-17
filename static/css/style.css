@@ -6,3 +6,9 @@
     height: 250px;
     overflow: hidden;
 }
+.Card{
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
